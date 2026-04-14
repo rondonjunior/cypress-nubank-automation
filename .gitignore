@@ -1,0 +1,15 @@
+# Dependências do projeto
+node_modules/
+
+# Arquivos gerados pelo Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Variáveis de ambiente (segurança)
+.env
+.env.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
